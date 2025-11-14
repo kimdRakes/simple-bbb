@@ -1,0 +1,27 @@
+[
+  {
+    "category": "Customer Service",
+    "user": "John D.",
+    "status": null,
+    "type": null,
+    "stars": 4,
+    "date": "2024-01-10",
+    "source_url": "https://www.bbb.org/example/reviews/123",
+    "details": "Great service experience overall.",
+    "responses": null
+  },
+  {
+    "category": "Billing Issue",
+    "user": null,
+    "status": "Resolved",
+    "type": "Complaint",
+    "stars": null,
+    "date": "2024-01-12",
+    "source_url": "https://www.bbb.org/example/complaints/456",
+    "details": "Incorrect charges shown on invoice.",
+    "responses": {
+      "business": "We have refunded the additional charge.",
+      "consumer": "Issue resolved, thank you."
+    }
+  }
+]
