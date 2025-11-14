@@ -1,0 +1,5 @@
+{
+  "proxy": "",
+  "timeout_seconds": 15,
+  "user_agent": "Mozilla/5.0"
+}
